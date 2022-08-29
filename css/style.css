@@ -74,6 +74,8 @@ nav button {
     border-radius: 20px;
     background-color:  rgb(45, 45, 45);
     border: 1px solid white;
+    padding: 15px;
+    color: white;
 }
 
 .search_buttons {
